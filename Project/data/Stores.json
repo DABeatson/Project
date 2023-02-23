@@ -1,0 +1,68 @@
+{
+"stores": [
+  {
+    "storeCode": "86dsc9",
+    "manager": {
+      "personCode": "c3brs6",
+      "address": {
+        "street": "86122 Crest Line Junction",
+        "city": "Houston",
+        "state": "TX",
+        "country": "US",
+        "zipCode": "77010"
+      } 
+    }
+    },
+  {
+    "storeCode": "d6c3wa",
+    "manager": {
+      "personCode": "e3dst5",
+      "address": {
+        "street": "308 Columbus Alley",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "zipCode": "92137"
+      }
+    }
+  },
+  {
+    "storeCode": "5gcw39",
+    "manager": {
+      "personCode": "d6d576",
+      "address": {
+        "street": "778 Miller Alley",
+        "city": "Newport News",
+        "state": "VA",
+        "country": "US",
+        "zipCode": "23612"
+      }
+     }
+  },
+  {
+    "storeCode": "dbjrt6",
+    "manager": {
+      "personCode": "dgse32",
+      "address": {
+        "street": "4 Hermina Hill",
+        "city": "Naples",
+        "state": "FL",
+        "country": "US",
+        "zipCode": "33963"
+      }
+      }
+  },
+  {
+    "storeCode": "749s5e",
+    "manager": {
+      "personCode": "23kdoa",
+      "address": {
+        "street": "68591 North Plaza",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US",
+        "zipCode": "02109"
+      }
+   }
+  }
+  ]}

@@ -1,0 +1,56 @@
+{
+"items": [
+  {
+    "costPerHour": 85.0,
+    "code": "125yrg",
+    "name": "Delivery"
+  },
+  {
+    "modelNumber": "Haymaker 1000",
+    "code": "eqs6h8",
+    "name": "Baler"
+  },
+  {
+    "unit": "1 ton",
+    "pricePerUnit": 1000.0,
+    "code": "85u6t2",
+    "name": "Top soil"
+  },
+  {
+    "modelNumber": "F105",
+    "code": "23rwsv",
+    "name": "Truck"
+  },
+  {
+    "costPerHour": 1000.0,
+    "code": "igw24s",
+    "name": "Plowing"
+  },
+  {
+    "modelNumber": "MegaTract 200HP",
+    "code": "3506f6",
+    "name": "Tractor"
+  },
+  {
+    "unit": "1 ton",
+    "pricePerUnit": 950.0,
+    "code": "y8jcz3",
+    "name": "Corn seed"
+  },
+  {
+    "unit": "10 ft",
+    "pricePerUnit": 10.0,
+    "code": "5hjes6",
+    "name": "Wire fencing"
+  },
+  {
+    "modelNumber": "F105",
+    "code": "gvny36",
+    "name": "Truck"
+  },
+  {
+    "modelNumber": "Husker 2023",
+    "code": "6ujjgt",
+    "name": "Harvester"
+  }
+]}
