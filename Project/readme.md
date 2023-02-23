@@ -20,4 +20,4 @@ CSE Login: jedavis
 
 NUID: 84806427
 
-Preferred Email: jdavis@unl.edu
+Preferred Email: jdavis123@unl.edu
